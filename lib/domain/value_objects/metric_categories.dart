@@ -1,0 +1,4 @@
+enum MetricCategories {
+  search,
+  session,
+}
